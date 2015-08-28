@@ -1,0 +1,9 @@
+http://codepen.io/aaronksaunders/pen/jEYGPe
+
+https://www.npmjs.com/package/fitbit-client-oauth2
+
+https://github.com/thegameofcode/passport-fitbit-oauth2
+
+https://docs.angularjs.org/api/ng/directive/ngClick
+
+http://expressjs.com/starter/hello-world.html
