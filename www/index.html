@@ -69,7 +69,10 @@
           <!-- The content of the page -->
           <a class="button" ui-sref="page1">Go To Page 1</a>
           <a class="button" ui-sref="page2">Go To Page 2</a>
-          <a class="button" ng-click="getSteps()">DO NOT PRESS</a>
+          <a class="button" ng-click="count = count + 1" ng-init="count=0">DO NOT PRESS</a>
+          <span>
+            count: {{count}}
+          </span>
         </ion-content>
       </ion-view>
     </script>     
